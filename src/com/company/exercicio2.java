@@ -2,8 +2,6 @@ package com.company;
 
 import java.util.Scanner;
 
-import static com.company.exercicio1.gerador;
-
 public class exercicio2 {
     public static void gerador(int valorinput){
         for (int i=0; i<valorinput;i++){
